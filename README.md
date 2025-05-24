@@ -3,6 +3,5 @@ TeachingZone is a JavaFX-based desktop application providing a robust platform f
 
 ## Demo Video
 Watch a quick demo of the TeachingZoneProject, showcasing login, course enrollment, and dashboard features:
-<br>
-![demoVid](https://raw.githubusercontent.com/Prjct5/TeachingZoneProject/main/video/demoVid.mp4)
+[demoVid](https://raw.githubusercontent.com/Prjct5/TeachingZoneProject/main/video/demoVid.mp4)
 
